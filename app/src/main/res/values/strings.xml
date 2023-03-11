@@ -1,0 +1,8 @@
+<resources>
+    <string name="MC1">Мирон</string>
+    <string name="MC2">Слава</string>
+    <string name="delete">Обнулить</string>
+    <string name="Versus">Версус батл</string>
+    <string name="app_name">App Name here</string>
+
+</resources>

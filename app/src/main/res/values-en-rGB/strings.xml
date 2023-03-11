@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="MC1">Miron</string>
+    <string name="MC2">Slava</string>
+    <string name="delete">Кeset to zero</string>
+    <string name="Versus">Versus Battle</string>
+
+</resources>
